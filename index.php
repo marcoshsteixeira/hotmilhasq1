@@ -16,4 +16,3 @@
     }
 
     secondDegreeEquation(8, -12, -38);
-?>
